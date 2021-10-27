@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02-classes/02-classes.iml" filepath="$PROJECT_DIR$/02-classes/02-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-classes/bookshop/03-maven/03-maven.iml" filepath="$PROJECT_DIR$/02-classes/bookshop/03-maven/03-maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SWBootcamp.iml" filepath="$PROJECT_DIR$/.idea/SWBootcamp.iml" />
+    </modules>
+  </component>
+</project>
